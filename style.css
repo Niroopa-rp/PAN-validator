@@ -1,0 +1,25 @@
+.pa{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+}
+.container{
+    width: 320px;
+    height: 100px;
+    background-color:palevioletred;
+    color: black;
+    padding-left: 20px;
+    margin: 0 auto;
+    margin-top: 6cm;
+}
+input{
+    margin-left: 20px;
+    width: 150px;
+    height: 20px;
+    margin: 10px;
+    margin-left: 15px;
+}
+button{
+    margin-left: 100px;
+}
